@@ -1,0 +1,6 @@
+﻿  CarShopCPP.cpp
+c:\users\pavka\source\repos\carshop\carshopcpp\carshopcpp.cpp(70): warning C4018: '<': signed/unsigned mismatch
+c:\users\pavka\source\repos\carshop\carshopcpp\carshopcpp.cpp(83): warning C4018: '<': signed/unsigned mismatch
+c:\users\pavka\source\repos\carshop\carshopcpp\carshopcpp.cpp(105): warning C4018: '<': signed/unsigned mismatch
+c:\users\pavka\source\repos\carshop\carshopcpp\carshopcpp.cpp(118): warning C4018: '<': signed/unsigned mismatch
+  CarShopCPP.vcxproj -> C:\Users\pavka\source\repos\CarShop\Debug\CarShopCPP.exe
